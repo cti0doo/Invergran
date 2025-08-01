@@ -1,0 +1,101 @@
+[33mcommit 6a64256791e69c75e2d77e0c81ee0bedca882740[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31msao-oficial/main[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31minvergran/main[m[33m)[m
+Author: cti0doo <34187073+cti0doo@users.noreply.github.com>
+Date:   Fri Aug 1 07:08:08 2025 -0500
+
+    Delete l10n_co_pucs directory
+
+[33mcommit 44df607e2c5a47ba3350c057c5104561e271b84f[m
+Author: cti0doo <34187073+cti0doo@users.noreply.github.com>
+Date:   Fri Aug 1 07:07:55 2025 -0500
+
+    Delete l10n_co_loans directory
+
+[33mcommit 06dfc68d69ab95aff5552464b9c958d1581f3cee[m
+Author: cti0doo <34187073+cti0doo@users.noreply.github.com>
+Date:   Fri Aug 1 07:07:45 2025 -0500
+
+    Delete l10n_co_hr_payroll directory
+
+[33mcommit f2212a3076bc21954628490dbc937d00e6845c5f[m
+Author: cti0doo <34187073+cti0doo@users.noreply.github.com>
+Date:   Fri Aug 1 07:07:23 2025 -0500
+
+    Delete l10n_co_account directory
+
+[33mcommit 46f43637feaaff366d98f3ac4c596e82849de4c6[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Thu Jul 31 12:50:29 2025 -0500
+
+    Nuevo revisar y subir
+
+[33mcommit 0e8c63c075fabcb513dc828fe7c9d04e1696adce[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Wed Jul 30 16:04:39 2025 -0500
+
+    SUBIENDO CAMBIOS
+
+[33mcommit 5861d4656d58642d96ddb594fafb160ae7612c1b[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Mon Jul 28 13:20:53 2025 -0500
+
+    v18 pucs
+
+[33mcommit c1c6cce46793e21d99503073e0bc12f6ff5c882b[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Thu May 29 15:41:37 2025 -0500
+
+    update autoinstall
+
+[33mcommit 1dd661d827ddc0ddf1d468081ea0117f6d4b0385[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Wed May 28 16:50:31 2025 -0500
+
+    update manifest
+
+[33mcommit d068d8d95daf2770d2c952913336d0076a269181[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Wed May 28 10:34:48 2025 -0500
+
+    v18 20250528 - pucs
+
+[33mcommit f0ddd47fb77d37be17ce16a93518ca890f109421[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Wed May 28 10:33:35 2025 -0500
+
+    v18 20250528
+
+[33mcommit affbed898368cd880260a29e147750fbf14430fa[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Thu May 8 10:18:10 2025 -0500
+
+    v18 exogenos 20250508
+
+[33mcommit a97a050d72c2388d4cefce5741320a282aa757d6[m[33m ([m[1;31morigin/Prueba[m[33m)[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Sat Apr 12 17:55:18 2025 -0500
+
+    v18 - upgrade a 20250412
+
+[33mcommit 249ad6714debf755f3723f6933c021d845dc3e4b[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Wed Apr 9 22:08:08 2025 -0500
+
+    v18 20250409 upgrade
+
+[33mcommit 934e951884d76ec700f3b6549899c3c614912db5[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Sun Apr 6 21:46:01 2025 -0500
+
+    update toggle a
+
+[33mcommit 6adcdd49bd5dfd5e375dc09f718b5f2034718200[m
+Author: Rafael Riveros <cti@cti.com.co>
+Date:   Thu Apr 3 23:50:04 2025 -0500
+
+    v18 20250403
+
+[33mcommit 0c58a424cdf2b0b5faa52e416c6d5aa67c77b5dc[m
+Author: cti0doo <34187073+cti0doo@users.noreply.github.com>
+Date:   Fri Mar 28 13:20:01 2025 -0500
+
+    Initial commit
